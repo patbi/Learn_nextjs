@@ -1,4 +1,4 @@
-#understand Javascript
+#understand Javascript.
 
 
-Learn more -> https://github.com/patbi/Js_
+Learn more -> https://github.com/patbi/Js_full
