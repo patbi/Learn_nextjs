@@ -1,0 +1,25 @@
+ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+h2,
+h3,
+a {
+	color: #34495e;
+}
+
+a {
+	text-decoration: none;
+}
+
+.logo {
+	margin: 0;
+	font-size: 1.45rem;
+}
+
+.main-nav {
+	display: flex;
+	margin-top: 5px;
+}
